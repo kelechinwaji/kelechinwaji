@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelechi Nwaji</h1>
-<h3 align="center">I'm a Software Engineer with focus on web technologies, I'm open to collaborating on interesting software projects and community building.</h3>
+<h3 align="center">I'm a Software Engineer with focus on server side technologies, I'm open to collaborating on interesting software projects and community building.</h3>
 
-- 🌱 I’m currently learning **Go and Python**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://kelechukwu.netlify.app/](https://kelechukwu.netlify.app/)
 
